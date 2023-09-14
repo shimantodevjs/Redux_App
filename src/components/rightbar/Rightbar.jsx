@@ -11,7 +11,7 @@ export default function Rightbar() {
         <Recommendation type="popular" />
         <Recommendation type="editor" />
         <button className="rightButton">
-          See What?
+          no way?
           <ArrowDropDown />
         </button>
       </div>
